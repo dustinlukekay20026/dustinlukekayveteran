@@ -1,2 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>https://dustinlukekayveteran.com/</loc></url></urlset>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://dustinlukekayveteran.com/</loc>
+    <image:image><image:loc>https://dustinlukekayveteran.com/images/dustin-luke-kay-navy-dress-blues.webp</image:loc></image:image>
+    <image:image><image:loc>https://dustinlukekayveteran.com/images/dustin-luke-kay-navy-good-conduct-award.webp</image:loc></image:image>
+    <image:image><image:loc>https://dustinlukekayveteran.com/images/dustin-luke-kay-navy-working-uniform.webp</image:loc></image:image>
+    <image:image><image:loc>https://dustinlukekayveteran.com/images/dustin-luke-kay-vp-40-denison-newspaper.webp</image:loc></image:image>
+    <image:image><image:loc>https://dustinlukekayveteran.com/images/luke-kay-vp-40-junior-sailor-of-the-quarter-1999.webp</image:loc></image:image>
+    <image:image><image:loc>https://dustinlukekayveteran.com/images/dustin-luke-kay-navy-marine-corps-achievement-medal-2000.webp</image:loc></image:image>
+    <image:image><image:loc>https://dustinlukekayveteran.com/images/luke-kay-pacific-fleet-commendation-1999.webp</image:loc></image:image>
+    <image:image><image:loc>https://dustinlukekayveteran.com/images/dustin-luke-kay-navy-fallon-commendation-1998.webp</image:loc></image:image>
+    <image:image><image:loc>https://dustinlukekayveteran.com/images/truckee-river-flood-reno-nevada-1997.webp</image:loc></image:image>
+    <image:image><image:loc>https://dustinlukekayveteran.com/images/dustin-luke-kay-army-freedom-team-salute.webp</image:loc></image:image>
+    <image:image><image:loc>https://dustinlukekayveteran.com/images/luke-kay-apm-navy-veteran-recruiter.webp</image:loc></image:image>
+    <image:image><image:loc>https://dustinlukekayveteran.com/images/dustin-luke-kay-american-flag-office-portrait.webp</image:loc></image:image>
+    <image:image><image:loc>https://dustinlukekayveteran.com/images/dustin-luke-kay-blue-angels-office-portrait.webp</image:loc></image:image>
+  </url>
+</urlset>
